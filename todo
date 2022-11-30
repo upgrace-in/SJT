@@ -1,0 +1,21 @@
+If the records that we pull every 6 hours, I would also like to have a set which filters by 25 trades so I can display it in the website in milestone 4 (website stage).
+
+E.g
+
+We may have a collection of 200 transactions during the 6 hour period
+
+We need the following
+
+1) Query the collection during the 6 hour period
+
+2) from the collection in query 1 filter the top wallets by token and show top 25 wallets
+
+Wallet. - token
+
+User 1 - 1,000,000
+User 2 - 999,123
+User 3 - 990,000
+User 4 - 850,000
+..
+..
+User 25 - 650,000
